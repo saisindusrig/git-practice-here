@@ -1,2 +1,5 @@
 HEllo 1
+<<<<<<< Updated upstream
 changes in github - hello from hub!
+
+hello from local directory!
